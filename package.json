@@ -1,0 +1,25 @@
+{
+  "name": "vue-smooth",
+  "version": "0.0.1",
+  "description": "Smoothly resolve interactive commits between Vue.js and backend server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HSEFZ/vue-smooth.git"
+  },
+  "keywords": [
+    "Vue.js",
+    "Vue",
+    "smooth",
+    "vue-smooth"
+  ],
+  "author": "jcpwfloi <jcpwfloi@gmail.com> (http://blog.codebursts.com/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/HSEFZ/vue-smooth/issues"
+  },
+  "homepage": "https://github.com/HSEFZ/vue-smooth#readme"
+}
